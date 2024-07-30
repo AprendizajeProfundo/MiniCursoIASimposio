@@ -13,7 +13,7 @@ Universidad de Cartagena, Cartagena de Indias
 - [Taller 2.1 Eliminación de Ruido](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_02_Taller_01_Ruido.ipynb)
 - [Taller 2.2 Colorización](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_02_Taller_02_colorizacion.ipynb)
 
-# Sesión 3  Modelos Generativos
+## Sesión 3:  Modelos Generativos
 - [Autoencoders Variacionales- VAE](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_03_01_conferencia_VAE.ipynb)
 - [Taller 3.1 VAE - FashionMnist](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_03_Taller_01_VAE.ipynb)
 - [Redes Generativa Adversarias - GAN](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_03_02_Conferencia_GAN.ipynb)
