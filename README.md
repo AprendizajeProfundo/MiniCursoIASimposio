@@ -11,4 +11,4 @@ Universidad de Cartagena, Cartagena de Indias
 ## Sesión 2: Visión por Computador
 - [Conferencia](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_02_Conferencia_Vision.ipynb)
 - [Taller 2.1 Eliminación de Ruido](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_02_Taller_01_Ruido.ipynb)
-- 
+- [Taller 2.2 Colorización](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_02_Taller_02_colorizacion.ipynb)
