@@ -3,7 +3,8 @@
 ## 33 Simposio Internacional de Estadística, 2024
 Universidad de Cartagena, Cartagena de Indias
 ##  Enlace sesiones en vivo
-[Enlace Simposio](https://tel.meet/ydt-zugt-nqb?hs=5)
+[Enlace Simposio](https://meet.google.com/efn-hszx-jur)
+
 
 ## Sesión 1: Fundamentos de Inteligencia Artificial
 - [Conferencia](https://github.com/AprendizajeProfundo/MiniCursoIASimposio/blob/main/Cuadernos/Cursillo_IA_01_Conferencia_Fundamentos.ipynb)
